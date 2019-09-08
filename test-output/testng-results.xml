@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53210" started-at="2019-09-08T09:31:17Z" finished-at="2019-09-08T09:32:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53210" started-at="2019-09-08T09:31:17Z" finished-at="2019-09-08T09:32:10Z">
+      <class name="com.ios.fastip.testcases.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ios.fastip.testcases.TestCases@31dc339b]" name="setup" is-config="true" duration-ms="16568" started-at="2019-09-08T11:31:17Z" finished-at="2019-09-08T11:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testBillAmount()[pri:1, instance:com.ios.fastip.testcases.TestCases@31dc339b]" name="testBillAmount" duration-ms="6779" started-at="2019-09-08T11:31:33Z" finished-at="2019-09-08T11:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBillAmount -->
+        <test-method status="PASS" signature="testtipPercentageChangedisReflectedInHomeScreen()[pri:2, instance:com.ios.fastip.testcases.TestCases@31dc339b]" name="testtipPercentageChangedisReflectedInHomeScreen" duration-ms="13096" started-at="2019-09-08T11:31:40Z" finished-at="2019-09-08T11:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testtipPercentageChangedisReflectedInHomeScreen -->
+        <test-method status="PASS" signature="testPercentageShouldthrowAlertWhenStringisEntered()[pri:3, instance:com.ios.fastip.testcases.TestCases@31dc339b]" name="testPercentageShouldthrowAlertWhenStringisEntered" duration-ms="15393" started-at="2019-09-08T11:31:53Z" finished-at="2019-09-08T11:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPercentageShouldthrowAlertWhenStringisEntered -->
+        <test-method status="PASS" signature="uninstallApp()[pri:0, instance:com.ios.fastip.testcases.TestCases@31dc339b]" name="uninstallApp" is-config="true" duration-ms="1335" started-at="2019-09-08T11:32:08Z" finished-at="2019-09-08T11:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uninstallApp -->
+      </class> <!-- com.ios.fastip.testcases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
